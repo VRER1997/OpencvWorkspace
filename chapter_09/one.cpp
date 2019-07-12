@@ -2,6 +2,8 @@
 // Created by c1over on 2019-07-10.
 //
 #include <opencv2/opencv.hpp>
+#include <iostream>
+using namespace std;
 using namespace cv;
 
 int main(){
@@ -27,7 +29,8 @@ int main(){
     for(int i = 0; i < 256; i++){
         float binValue = dstHist.at<float>(i);
         int realValue = saturate_cast<int>(binValue*hpt/maxValue);
-        rectangle(dstImage, Point(i*scale, size-1), Point((i+1)*scale-1, size-realValue), Scalar(255));
+        cout << realValue << endl;
+        rectangle(dstImage, Point(i*scale, size-1), Point((i+1)*scale-1, size-realValue), Scalar(150));
     }
     imshow("[1]", dstImage);
     waitKey(0);

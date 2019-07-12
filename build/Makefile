@@ -501,6 +501,19 @@ one_08/fast:
 .PHONY : one_08/fast
 
 #=============================================================================
+# Target rules for targets named two_09
+
+# Build rule for target.
+two_09: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 two_09
+.PHONY : two_09
+
+# fast build rule for target.
+two_09/fast:
+	$(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/build
+.PHONY : two_09/fast
+
+#=============================================================================
 # Target rules for targets named one_09
 
 # Build rule for target.
@@ -512,6 +525,45 @@ one_09: cmake_check_build_system
 one_09/fast:
 	$(MAKE) -f chapter_09/CMakeFiles/one_09.dir/build.make chapter_09/CMakeFiles/one_09.dir/build
 .PHONY : one_09/fast
+
+#=============================================================================
+# Target rules for targets named three_10
+
+# Build rule for target.
+three_10: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 three_10
+.PHONY : three_10
+
+# fast build rule for target.
+three_10/fast:
+	$(MAKE) -f chapter_10/CMakeFiles/three_10.dir/build.make chapter_10/CMakeFiles/three_10.dir/build
+.PHONY : three_10/fast
+
+#=============================================================================
+# Target rules for targets named two_10
+
+# Build rule for target.
+two_10: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 two_10
+.PHONY : two_10
+
+# fast build rule for target.
+two_10/fast:
+	$(MAKE) -f chapter_10/CMakeFiles/two_10.dir/build.make chapter_10/CMakeFiles/two_10.dir/build
+.PHONY : two_10/fast
+
+#=============================================================================
+# Target rules for targets named one_10
+
+# Build rule for target.
+one_10: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 one_10
+.PHONY : one_10
+
+# fast build rule for target.
+one_10/fast:
+	$(MAKE) -f chapter_10/CMakeFiles/one_10.dir/build.make chapter_10/CMakeFiles/one_10.dir/build
+.PHONY : one_10/fast
 
 # Help Target
 help:
@@ -551,7 +603,11 @@ help:
 	@echo "... two_08"
 	@echo "... three_08"
 	@echo "... one_08"
+	@echo "... two_09"
 	@echo "... one_09"
+	@echo "... three_10"
+	@echo "... two_10"
+	@echo "... one_10"
 .PHONY : help
 
 

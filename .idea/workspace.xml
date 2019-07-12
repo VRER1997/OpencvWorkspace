@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="OpencvWorkspace" targetName="five_05" />
+      <config projectName="OpencvWorkspace" targetName="one_09" />
+      <config projectName="OpencvWorkspace" targetName="five_06" />
+      <config projectName="OpencvWorkspace" targetName="one_08" />
+      <config projectName="OpencvWorkspace" targetName="one_07" />
+      <config projectName="OpencvWorkspace" targetName="five_07" />
+      <config projectName="OpencvWorkspace" targetName="two_03" />
+      <config projectName="OpencvWorkspace" targetName="one" />
+      <config projectName="OpencvWorkspace" targetName="one_06" />
+      <config projectName="OpencvWorkspace" targetName="one_05" />
+      <config projectName="OpencvWorkspace" targetName="one_03" />
+      <config projectName="OpencvWorkspace" targetName="three" />
+      <config projectName="OpencvWorkspace" targetName="three_10" />
+      <config projectName="OpencvWorkspace" targetName="main" />
+      <config projectName="OpencvWorkspace" targetName="four_07" />
+      <config projectName="OpencvWorkspace" targetName="four_06" />
+      <config projectName="OpencvWorkspace" targetName="four_05" />
+      <config projectName="OpencvWorkspace" targetName="six_06" />
+      <config projectName="OpencvWorkspace" targetName="three_08" />
+      <config projectName="OpencvWorkspace" targetName="six_05" />
+      <config projectName="OpencvWorkspace" targetName="three_07" />
+      <config projectName="OpencvWorkspace" targetName="one_10" />
+      <config projectName="OpencvWorkspace" targetName="six_07" />
+      <config projectName="OpencvWorkspace" targetName="two_10" />
+      <config projectName="OpencvWorkspace" targetName="five" />
+      <config projectName="OpencvWorkspace" targetName="two" />
+      <config projectName="OpencvWorkspace" targetName="two_09" />
+      <config projectName="OpencvWorkspace" targetName="two_08" />
+      <config projectName="OpencvWorkspace" targetName="three_06" />
+      <config projectName="OpencvWorkspace" targetName="two_07" />
+      <config projectName="OpencvWorkspace" targetName="three_05" />
+      <config projectName="OpencvWorkspace" targetName="two_06" />
+      <config projectName="OpencvWorkspace" targetName="two_05" />
+      <config projectName="OpencvWorkspace" targetName="four" />
+      <config projectName="OpencvWorkspace" targetName="seven_07" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8da3eb5c-0cf8-4b90-9d34-441e8a742e11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/chapter_09/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/chapter_09/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/chapter_09/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/chapter_10/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/chapter_10/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_09/two.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/one.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/three.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_10/two.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_01/CMakeFiles/three.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_01/CMakeFiles/three.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_01/CMakeFiles/two.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_01/CMakeFiles/two.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_03/CMakeFiles/two_03.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_03/CMakeFiles/two_03.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_05/CMakeFiles/six_05.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_05/CMakeFiles/six_05.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_05/CMakeFiles/three_05.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_05/CMakeFiles/three_05.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_05/CMakeFiles/two_05.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_05/CMakeFiles/two_05.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_06/CMakeFiles/six_06.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_06/CMakeFiles/six_06.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_06/CMakeFiles/three_06.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_06/CMakeFiles/three_06.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_06/CMakeFiles/two_06.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_06/CMakeFiles/two_06.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/seven_07.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/seven_07.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/six_07.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/six_07.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/three_07.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/three_07.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/two_07.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_07/CMakeFiles/two_07.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_08/CMakeFiles/three_08.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_08/CMakeFiles/three_08.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_08/CMakeFiles/two_08.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_08/CMakeFiles/two_08.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_09/CMakeFiles/one_09.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_09/CMakeFiles/one_09.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_09/CMakeFiles/one_09.dir/one.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_09/CMakeFiles/one_09.dir/one.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_09/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_09/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_09/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_09/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/chapter_09/one_09" beforeDir="false" afterPath="$PROJECT_DIR$/build/chapter_09/one_09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_09/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_09/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_09/one.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_09/one.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_09/one.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+              <folding>
+                <element signature="e#42#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_09/two.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/one.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_10/two.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-218">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding>
+                <element signature="e#42#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_10/three.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding>
+                <element signature="e#43#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_09/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>��ԭʼͼ��</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>[0]</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chapter_05/one.cpp" />
+        <option value="$PROJECT_DIR$/chapter_05/two.cpp" />
+        <option value="$PROJECT_DIR$/chapter_05/three.cpp" />
+        <option value="$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【5】第五章/【27】图像对比度、亮度值调整/27_图像对比度、亮度值调整/27_ChangeContrastAndBright.cpp" />
+        <option value="$PROJECT_DIR$/chapter_05/four.cpp" />
+        <option value="$PROJECT_DIR$/chapter_05/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/chapter_05/six.cpp" />
+        <option value="$PROJECT_DIR$/chapter_05/five.cpp" />
+        <option value="$PROJECT_DIR$/chapter_06/one.cpp" />
+        <option value="$PROJECT_DIR$/chapter_06/two.cpp" />
+        <option value="$PROJECT_DIR$/chapter_06/three.cpp" />
+        <option value="$PROJECT_DIR$/chapter_06/four.cpp" />
+        <option value="$PROJECT_DIR$/chapter_06/five.cpp" />
+        <option value="$PROJECT_DIR$/chapter_06/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/chapter_06/six.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/one.cpp" />
+        <option value="$PROJECT_DIR$/note.md" />
+        <option value="$PROJECT_DIR$/chapter_07/two.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/three.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/four.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/five.cpp" />
+        <option value="$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【7】第七章/【67】仿射变换综合示例/67_仿射变换综合示例/67_AffineTransform.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/six.cpp" />
+        <option value="$PROJECT_DIR$/chapter_07/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/chapter_07/seven.cpp" />
+        <option value="$PROJECT_DIR$/chapter_08/one.cpp" />
+        <option value="$PROJECT_DIR$/chapter_08/two.cpp" />
+        <option value="$PROJECT_DIR$/chapter_08/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/chapter_08/three.cpp" />
+        <option value="$PROJECT_DIR$/chapter_09/one.cpp" />
+        <option value="$PROJECT_DIR$/chapter_09/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/chapter_09/two.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/chapter_10/one.cpp" />
+        <option value="$PROJECT_DIR$/chapter_10/two.cpp" />
+        <option value="$PROJECT_DIR$/chapter_10/three.cpp" />
+        <option value="$PROJECT_DIR$/chapter_10/CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="496" />
+    <option name="y" value="23" />
+    <option name="width" value="1404" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OpencvWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpencvWorkspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OpencvWorkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OpencvWorkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_10" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/chapter_09" />
+      <recent name="$PROJECT_DIR$/chapter_07" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/chapter_10" />
+      <recent name="$PROJECT_DIR$/build/chapter_09" />
+      <recent name="$PROJECT_DIR$/chapter_09" />
+      <recent name="$PROJECT_DIR$/build/chapter_08" />
+      <recent name="$PROJECT_DIR$/build/chapter_07" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.five">
+    <configuration name="five" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="five" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="five">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="five_05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="five_05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="five_05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="five_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="five_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="five_06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="five_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="five_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="five_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="four" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="four" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="four">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="four_05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="four_05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="four_05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="four_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="four_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="four_06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="four_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="four_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="four_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_09" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_09">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="one_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="one_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="one_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seven_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="seven_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="seven_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="six_05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="six_05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="six_05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="six_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="six_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="six_06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="six_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="six_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="six_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="three" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="three">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three_05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="three_05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="three_05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="three_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="three_06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="three_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="three_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three_08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="three_08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="three_08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="three_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="three_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="three_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_03" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_05" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_06" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_07" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_08" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_09" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_09">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="two_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="OpencvWorkspace" TARGET_NAME="two_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="OpencvWorkspace" RUN_TARGET_NAME="two_10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.five" />
+      <item itemvalue="Application.four" />
+      <item itemvalue="Application.one" />
+      <item itemvalue="Application.three" />
+      <item itemvalue="Application.two" />
+      <item itemvalue="Application.one_03" />
+      <item itemvalue="Application.two_03" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.five_05" />
+      <item itemvalue="Application.four_05" />
+      <item itemvalue="Application.one_05" />
+      <item itemvalue="Application.six_05" />
+      <item itemvalue="Application.three_05" />
+      <item itemvalue="Application.two_05" />
+      <item itemvalue="Application.five_06" />
+      <item itemvalue="Application.four_06" />
+      <item itemvalue="Application.one_06" />
+      <item itemvalue="Application.six_06" />
+      <item itemvalue="Application.three_06" />
+      <item itemvalue="Application.two_06" />
+      <item itemvalue="Application.five_07" />
+      <item itemvalue="Application.four_07" />
+      <item itemvalue="Application.one_07" />
+      <item itemvalue="Application.seven_07" />
+      <item itemvalue="Application.six_07" />
+      <item itemvalue="Application.three_07" />
+      <item itemvalue="Application.two_07" />
+      <item itemvalue="Application.one_08" />
+      <item itemvalue="Application.three_08" />
+      <item itemvalue="Application.two_08" />
+      <item itemvalue="Application.one_09" />
+      <item itemvalue="Application.two_09" />
+      <item itemvalue="Application.one_10" />
+      <item itemvalue="Application.three_10" />
+      <item itemvalue="Application.two_10" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8da3eb5c-0cf8-4b90-9d34-441e8a742e11" name="Default Changelist" comment="" />
+      <created>1562309515026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562309515026</updated>
+      <workItem from="1562309516429" duration="4424000" />
+      <workItem from="1562390517845" duration="8604000" />
+      <workItem from="1562462204173" duration="4750000" />
+      <workItem from="1562504715807" duration="2234000" />
+      <workItem from="1562507067078" duration="1312000" />
+      <workItem from="1562551073715" duration="5906000" />
+      <workItem from="1562588398080" duration="72000" />
+      <workItem from="1562733060659" duration="8474000" />
+      <workItem from="1562916616867" duration="3780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39556000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="496" y="23" width="1404" height="1007" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380323" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32896176" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.499666" visible="true" weight="0.22404371" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500334" side_tool="true" weight="0.36612022" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32896176" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" x="0" y="0" width="270" height="807" id="Documentation" order="4" side_tool="true" weight="0.32956383" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16165665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32896176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896176" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32896176" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33989072" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32896176" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter_03/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_01/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_03/one.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_04/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="e#43#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/two.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#43#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【5】第五章/【27】图像对比度、亮度值调整/27_图像对比度、亮度值调整/27_ChangeContrastAndBright.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/four.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <element signature="e#43#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.13/Modules/CMakeSystemSpecificInitialize.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.13/Modules/Platform/Darwin-Initialize.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="112" column="10" selection-start-line="112" selection-start-column="10" selection-end-line="112" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/cmake/3.14.5/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/three.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#43#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/six.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="e#43#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/chapter_05/test.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/two.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/three.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/four.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/five.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/six.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_06/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_05/five.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="e#43#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【7】第七章/【60】边缘检测综合示例/60_边缘检测综合示例/EdgeDetection.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="66" column="26" selection-end-line="178" />
+          <folding>
+            <element signature="e#744#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/two.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1826">
+          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+          <folding>
+            <element signature="e#744#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/three.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="21" />
+          <folding>
+            <element signature="e#43#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/four.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="e#43#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/five.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【7】第七章/【67】仿射变换综合示例/67_仿射变换综合示例/67_AffineTransform.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/seven.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【7】第七章/【61】HoughLines函数用法示例/61_HoughLines函数用法示例/61_HoughLines.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="62" column="17" selection-end-line="70" />
+          <folding>
+            <element signature="e#701#730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/chapter_09/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08/three.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="34" selection-end-line="53" selection-end-column="34" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08/two.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_08/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_07/six.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OpenCV3-Intro-Book-Src-master/OpenCV3-examples/src/【9】第九章/【82】直方图对比/82_直方图对比/82_compareHist.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1941">
+          <caret line="12" column="33" selection-end-line="117" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/one.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_09/two.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/two.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-218">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#42#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_10/three.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#43#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

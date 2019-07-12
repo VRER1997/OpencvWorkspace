@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="chapter_01"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\chapter_01\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\;CMake Files\chapter_03\;CMake Files\chapter_04\;CMake Files\chapter_05\;CMake Files\chapter_06\;CMake Files\chapter_07\;CMake Files\chapter_08\;CMake Files\chapter_09\;CMake Files\chapter_10\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/one" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 one"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one/fast">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/one" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 one/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="four">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/four" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 four"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="four/fast">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/four" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 four/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="three">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/three" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 three"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="three/fast">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/three" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 three/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/two" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 two"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two/fast">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/two" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 two/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="five">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/five" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 five"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="five/fast">
+				<Option output="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/five" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 five/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/c1over/Documents/OpencvWorkspace/cmake-build-debug/chapter_01/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_01/five.cpp">
+			<Option target="five"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_01/four.cpp">
+			<Option target="four"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_01/one.cpp">
+			<Option target="one"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_01/three.cpp">
+			<Option target="three"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_01/two.cpp">
+			<Option target="two"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_01/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_01\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/../../../../usr/local/lib/cmake/opencv4/OpencvConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/../../../../usr/local/lib/cmake/opencv4/OpencvConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_03/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_03\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_04/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_04\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_05/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_05\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_06/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_06\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_07/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_07\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_08/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_08\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_09/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_09\"/>
+		</Unit>
+		<Unit filename="/Users/c1over/Documents/OpencvWorkspace/chapter_10/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\chapter_10\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

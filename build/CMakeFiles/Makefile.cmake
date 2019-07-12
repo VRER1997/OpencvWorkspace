@@ -19,6 +19,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "../chapter_07/CMakeLists.txt"
   "../chapter_08/CMakeLists.txt"
   "../chapter_09/CMakeLists.txt"
+  "../chapter_10/CMakeLists.txt"
   "/usr/local/Cellar/cmake/3.14.5/share/cmake/Modules/CMakeCInformation.cmake"
   "/usr/local/Cellar/cmake/3.14.5/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/usr/local/Cellar/cmake/3.14.5/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
@@ -67,6 +68,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "chapter_07/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_08/CMakeFiles/CMakeDirectoryInformation.cmake"
   "chapter_09/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "chapter_10/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -101,5 +103,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "chapter_08/CMakeFiles/two_08.dir/DependInfo.cmake"
   "chapter_08/CMakeFiles/three_08.dir/DependInfo.cmake"
   "chapter_08/CMakeFiles/one_08.dir/DependInfo.cmake"
+  "chapter_09/CMakeFiles/two_09.dir/DependInfo.cmake"
   "chapter_09/CMakeFiles/one_09.dir/DependInfo.cmake"
+  "chapter_10/CMakeFiles/three_10.dir/DependInfo.cmake"
+  "chapter_10/CMakeFiles/two_10.dir/DependInfo.cmake"
+  "chapter_10/CMakeFiles/one_10.dir/DependInfo.cmake"
   )

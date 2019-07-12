@@ -111,6 +111,21 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
+chapter_09/CMakeFiles/two_09.dir/rule:
+	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_09/CMakeFiles/two_09.dir/rule
+.PHONY : chapter_09/CMakeFiles/two_09.dir/rule
+
+# Convenience name for target.
+two_09: chapter_09/CMakeFiles/two_09.dir/rule
+
+.PHONY : two_09
+
+# fast build rule for target.
+two_09/fast:
+	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/build
+.PHONY : two_09/fast
+
+# Convenience name for target.
 chapter_09/CMakeFiles/one_09.dir/rule:
 	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f CMakeFiles/Makefile2 chapter_09/CMakeFiles/one_09.dir/rule
 .PHONY : chapter_09/CMakeFiles/one_09.dir/rule
@@ -152,6 +167,33 @@ one.cpp.s:
 	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f chapter_09/CMakeFiles/one_09.dir/build.make chapter_09/CMakeFiles/one_09.dir/one.cpp.s
 .PHONY : one.cpp.s
 
+two.o: two.cpp.o
+
+.PHONY : two.o
+
+# target to build an object file
+two.cpp.o:
+	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/two.cpp.o
+.PHONY : two.cpp.o
+
+two.i: two.cpp.i
+
+.PHONY : two.i
+
+# target to preprocess a source file
+two.cpp.i:
+	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/two.cpp.i
+.PHONY : two.cpp.i
+
+two.s: two.cpp.s
+
+.PHONY : two.s
+
+# target to generate assembly for a file
+two.cpp.s:
+	cd /Users/c1over/Documents/OpencvWorkspace/build && $(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/two.cpp.s
+.PHONY : two.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -160,10 +202,14 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
+	@echo "... two_09"
 	@echo "... one_09"
 	@echo "... one.o"
 	@echo "... one.i"
 	@echo "... one.s"
+	@echo "... two.o"
+	@echo "... two.i"
+	@echo "... two.s"
 .PHONY : help
 
 

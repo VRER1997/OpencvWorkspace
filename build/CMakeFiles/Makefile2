@@ -171,7 +171,7 @@ clean: chapter_01/CMakeFiles/four.dir/clean
 chapter_01/CMakeFiles/three.dir/all:
 	$(MAKE) -f chapter_01/CMakeFiles/three.dir/build.make chapter_01/CMakeFiles/three.dir/depend
 	$(MAKE) -f chapter_01/CMakeFiles/three.dir/build.make chapter_01/CMakeFiles/three.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=41,42 "Built target three"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=43,44 "Built target three"
 .PHONY : chapter_01/CMakeFiles/three.dir/all
 
 # Include target in all.
@@ -208,7 +208,7 @@ clean: chapter_01/CMakeFiles/three.dir/clean
 chapter_01/CMakeFiles/two.dir/all:
 	$(MAKE) -f chapter_01/CMakeFiles/two.dir/build.make chapter_01/CMakeFiles/two.dir/depend
 	$(MAKE) -f chapter_01/CMakeFiles/two.dir/build.make chapter_01/CMakeFiles/two.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=51,52 "Built target two"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=55,56 "Built target two"
 .PHONY : chapter_01/CMakeFiles/two.dir/all
 
 # Include target in all.
@@ -302,7 +302,7 @@ chapter_03/preinstall:
 chapter_03/CMakeFiles/two_03.dir/all:
 	$(MAKE) -f chapter_03/CMakeFiles/two_03.dir/build.make chapter_03/CMakeFiles/two_03.dir/depend
 	$(MAKE) -f chapter_03/CMakeFiles/two_03.dir/build.make chapter_03/CMakeFiles/two_03.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=53,54 "Built target two_03"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=57,58 "Built target two_03"
 .PHONY : chapter_03/CMakeFiles/two_03.dir/all
 
 # Include target in all.
@@ -533,7 +533,7 @@ clean: chapter_05/CMakeFiles/five_05.dir/clean
 chapter_05/CMakeFiles/three_05.dir/all:
 	$(MAKE) -f chapter_05/CMakeFiles/three_05.dir/build.make chapter_05/CMakeFiles/three_05.dir/depend
 	$(MAKE) -f chapter_05/CMakeFiles/three_05.dir/build.make chapter_05/CMakeFiles/three_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=43,44 "Built target three_05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=45,46 "Built target three_05"
 .PHONY : chapter_05/CMakeFiles/three_05.dir/all
 
 # Include target in all.
@@ -570,7 +570,7 @@ clean: chapter_05/CMakeFiles/three_05.dir/clean
 chapter_05/CMakeFiles/two_05.dir/all:
 	$(MAKE) -f chapter_05/CMakeFiles/two_05.dir/build.make chapter_05/CMakeFiles/two_05.dir/depend
 	$(MAKE) -f chapter_05/CMakeFiles/two_05.dir/build.make chapter_05/CMakeFiles/two_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=55,56 "Built target two_05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=59,60 "Built target two_05"
 .PHONY : chapter_05/CMakeFiles/two_05.dir/all
 
 # Include target in all.
@@ -607,7 +607,7 @@ clean: chapter_05/CMakeFiles/two_05.dir/clean
 chapter_05/CMakeFiles/six_05.dir/all:
 	$(MAKE) -f chapter_05/CMakeFiles/six_05.dir/build.make chapter_05/CMakeFiles/six_05.dir/depend
 	$(MAKE) -f chapter_05/CMakeFiles/six_05.dir/build.make chapter_05/CMakeFiles/six_05.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=35,36 "Built target six_05"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=37,38 "Built target six_05"
 .PHONY : chapter_05/CMakeFiles/six_05.dir/all
 
 # Include target in all.
@@ -783,7 +783,7 @@ clean: chapter_06/CMakeFiles/one_06.dir/clean
 chapter_06/CMakeFiles/three_06.dir/all:
 	$(MAKE) -f chapter_06/CMakeFiles/three_06.dir/build.make chapter_06/CMakeFiles/three_06.dir/depend
 	$(MAKE) -f chapter_06/CMakeFiles/three_06.dir/build.make chapter_06/CMakeFiles/three_06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=45,46 "Built target three_06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=47,48 "Built target three_06"
 .PHONY : chapter_06/CMakeFiles/three_06.dir/all
 
 # Include target in all.
@@ -857,7 +857,7 @@ clean: chapter_06/CMakeFiles/four_06.dir/clean
 chapter_06/CMakeFiles/six_06.dir/all:
 	$(MAKE) -f chapter_06/CMakeFiles/six_06.dir/build.make chapter_06/CMakeFiles/six_06.dir/depend
 	$(MAKE) -f chapter_06/CMakeFiles/six_06.dir/build.make chapter_06/CMakeFiles/six_06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=37,38 "Built target six_06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=39,40 "Built target six_06"
 .PHONY : chapter_06/CMakeFiles/six_06.dir/all
 
 # Include target in all.
@@ -894,7 +894,7 @@ clean: chapter_06/CMakeFiles/six_06.dir/clean
 chapter_06/CMakeFiles/two_06.dir/all:
 	$(MAKE) -f chapter_06/CMakeFiles/two_06.dir/build.make chapter_06/CMakeFiles/two_06.dir/depend
 	$(MAKE) -f chapter_06/CMakeFiles/two_06.dir/build.make chapter_06/CMakeFiles/two_06.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=57,58 "Built target two_06"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=61,62 "Built target two_06"
 .PHONY : chapter_06/CMakeFiles/two_06.dir/all
 
 # Include target in all.
@@ -961,7 +961,7 @@ chapter_07/preinstall:
 chapter_07/CMakeFiles/six_07.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/six_07.dir/build.make chapter_07/CMakeFiles/six_07.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/six_07.dir/build.make chapter_07/CMakeFiles/six_07.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=39,40 "Built target six_07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=41,42 "Built target six_07"
 .PHONY : chapter_07/CMakeFiles/six_07.dir/all
 
 # Include target in all.
@@ -1035,7 +1035,7 @@ clean: chapter_07/CMakeFiles/five_07.dir/clean
 chapter_07/CMakeFiles/three_07.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/three_07.dir/build.make chapter_07/CMakeFiles/three_07.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/three_07.dir/build.make chapter_07/CMakeFiles/three_07.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=47,48 "Built target three_07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=49,50 "Built target three_07"
 .PHONY : chapter_07/CMakeFiles/three_07.dir/all
 
 # Include target in all.
@@ -1072,7 +1072,7 @@ clean: chapter_07/CMakeFiles/three_07.dir/clean
 chapter_07/CMakeFiles/two_07.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/two_07.dir/build.make chapter_07/CMakeFiles/two_07.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/two_07.dir/build.make chapter_07/CMakeFiles/two_07.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=59,60 "Built target two_07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=63,64 "Built target two_07"
 .PHONY : chapter_07/CMakeFiles/two_07.dir/all
 
 # Include target in all.
@@ -1109,7 +1109,7 @@ clean: chapter_07/CMakeFiles/two_07.dir/clean
 chapter_07/CMakeFiles/seven_07.dir/all:
 	$(MAKE) -f chapter_07/CMakeFiles/seven_07.dir/build.make chapter_07/CMakeFiles/seven_07.dir/depend
 	$(MAKE) -f chapter_07/CMakeFiles/seven_07.dir/build.make chapter_07/CMakeFiles/seven_07.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=33,34 "Built target seven_07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=35,36 "Built target seven_07"
 .PHONY : chapter_07/CMakeFiles/seven_07.dir/all
 
 # Include target in all.
@@ -1242,7 +1242,7 @@ chapter_08/preinstall:
 chapter_08/CMakeFiles/two_08.dir/all:
 	$(MAKE) -f chapter_08/CMakeFiles/two_08.dir/build.make chapter_08/CMakeFiles/two_08.dir/depend
 	$(MAKE) -f chapter_08/CMakeFiles/two_08.dir/build.make chapter_08/CMakeFiles/two_08.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=61,62 "Built target two_08"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=65,66 "Built target two_08"
 .PHONY : chapter_08/CMakeFiles/two_08.dir/all
 
 # Include target in all.
@@ -1279,7 +1279,7 @@ clean: chapter_08/CMakeFiles/two_08.dir/clean
 chapter_08/CMakeFiles/three_08.dir/all:
 	$(MAKE) -f chapter_08/CMakeFiles/three_08.dir/build.make chapter_08/CMakeFiles/three_08.dir/depend
 	$(MAKE) -f chapter_08/CMakeFiles/three_08.dir/build.make chapter_08/CMakeFiles/three_08.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=49,50 "Built target three_08"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=51,52 "Built target three_08"
 .PHONY : chapter_08/CMakeFiles/three_08.dir/all
 
 # Include target in all.
@@ -1350,11 +1350,13 @@ clean: chapter_08/CMakeFiles/one_08.dir/clean
 # Directory level rules for directory chapter_09
 
 # Convenience name for "all" pass in the directory.
+chapter_09/all: chapter_09/CMakeFiles/two_09.dir/all
 chapter_09/all: chapter_09/CMakeFiles/one_09.dir/all
 
 .PHONY : chapter_09/all
 
 # Convenience name for "clean" pass in the directory.
+chapter_09/clean: chapter_09/CMakeFiles/two_09.dir/clean
 chapter_09/clean: chapter_09/CMakeFiles/one_09.dir/clean
 
 .PHONY : chapter_09/clean
@@ -1363,6 +1365,43 @@ chapter_09/clean: chapter_09/CMakeFiles/one_09.dir/clean
 chapter_09/preinstall:
 
 .PHONY : chapter_09/preinstall
+
+#=============================================================================
+# Target rules for target chapter_09/CMakeFiles/two_09.dir
+
+# All Build rule for target.
+chapter_09/CMakeFiles/two_09.dir/all:
+	$(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/depend
+	$(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=67,68 "Built target two_09"
+.PHONY : chapter_09/CMakeFiles/two_09.dir/all
+
+# Include target in all.
+all: chapter_09/CMakeFiles/two_09.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+chapter_09/CMakeFiles/two_09.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 chapter_09/CMakeFiles/two_09.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 0
+.PHONY : chapter_09/CMakeFiles/two_09.dir/rule
+
+# Convenience name for target.
+two_09: chapter_09/CMakeFiles/two_09.dir/rule
+
+.PHONY : two_09
+
+# clean rule for target.
+chapter_09/CMakeFiles/two_09.dir/clean:
+	$(MAKE) -f chapter_09/CMakeFiles/two_09.dir/build.make chapter_09/CMakeFiles/two_09.dir/clean
+.PHONY : chapter_09/CMakeFiles/two_09.dir/clean
+
+# clean rule for target.
+clean: chapter_09/CMakeFiles/two_09.dir/clean
+
+.PHONY : clean
 
 #=============================================================================
 # Target rules for target chapter_09/CMakeFiles/one_09.dir
@@ -1398,6 +1437,139 @@ chapter_09/CMakeFiles/one_09.dir/clean:
 
 # clean rule for target.
 clean: chapter_09/CMakeFiles/one_09.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Directory level rules for directory chapter_10
+
+# Convenience name for "all" pass in the directory.
+chapter_10/all: chapter_10/CMakeFiles/three_10.dir/all
+chapter_10/all: chapter_10/CMakeFiles/two_10.dir/all
+chapter_10/all: chapter_10/CMakeFiles/one_10.dir/all
+
+.PHONY : chapter_10/all
+
+# Convenience name for "clean" pass in the directory.
+chapter_10/clean: chapter_10/CMakeFiles/three_10.dir/clean
+chapter_10/clean: chapter_10/CMakeFiles/two_10.dir/clean
+chapter_10/clean: chapter_10/CMakeFiles/one_10.dir/clean
+
+.PHONY : chapter_10/clean
+
+# Convenience name for "preinstall" pass in the directory.
+chapter_10/preinstall:
+
+.PHONY : chapter_10/preinstall
+
+#=============================================================================
+# Target rules for target chapter_10/CMakeFiles/three_10.dir
+
+# All Build rule for target.
+chapter_10/CMakeFiles/three_10.dir/all:
+	$(MAKE) -f chapter_10/CMakeFiles/three_10.dir/build.make chapter_10/CMakeFiles/three_10.dir/depend
+	$(MAKE) -f chapter_10/CMakeFiles/three_10.dir/build.make chapter_10/CMakeFiles/three_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=53,54 "Built target three_10"
+.PHONY : chapter_10/CMakeFiles/three_10.dir/all
+
+# Include target in all.
+all: chapter_10/CMakeFiles/three_10.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+chapter_10/CMakeFiles/three_10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 chapter_10/CMakeFiles/three_10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 0
+.PHONY : chapter_10/CMakeFiles/three_10.dir/rule
+
+# Convenience name for target.
+three_10: chapter_10/CMakeFiles/three_10.dir/rule
+
+.PHONY : three_10
+
+# clean rule for target.
+chapter_10/CMakeFiles/three_10.dir/clean:
+	$(MAKE) -f chapter_10/CMakeFiles/three_10.dir/build.make chapter_10/CMakeFiles/three_10.dir/clean
+.PHONY : chapter_10/CMakeFiles/three_10.dir/clean
+
+# clean rule for target.
+clean: chapter_10/CMakeFiles/three_10.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target chapter_10/CMakeFiles/two_10.dir
+
+# All Build rule for target.
+chapter_10/CMakeFiles/two_10.dir/all:
+	$(MAKE) -f chapter_10/CMakeFiles/two_10.dir/build.make chapter_10/CMakeFiles/two_10.dir/depend
+	$(MAKE) -f chapter_10/CMakeFiles/two_10.dir/build.make chapter_10/CMakeFiles/two_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=69,70 "Built target two_10"
+.PHONY : chapter_10/CMakeFiles/two_10.dir/all
+
+# Include target in all.
+all: chapter_10/CMakeFiles/two_10.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+chapter_10/CMakeFiles/two_10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 chapter_10/CMakeFiles/two_10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 0
+.PHONY : chapter_10/CMakeFiles/two_10.dir/rule
+
+# Convenience name for target.
+two_10: chapter_10/CMakeFiles/two_10.dir/rule
+
+.PHONY : two_10
+
+# clean rule for target.
+chapter_10/CMakeFiles/two_10.dir/clean:
+	$(MAKE) -f chapter_10/CMakeFiles/two_10.dir/build.make chapter_10/CMakeFiles/two_10.dir/clean
+.PHONY : chapter_10/CMakeFiles/two_10.dir/clean
+
+# clean rule for target.
+clean: chapter_10/CMakeFiles/two_10.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target chapter_10/CMakeFiles/one_10.dir
+
+# All Build rule for target.
+chapter_10/CMakeFiles/one_10.dir/all:
+	$(MAKE) -f chapter_10/CMakeFiles/one_10.dir/build.make chapter_10/CMakeFiles/one_10.dir/depend
+	$(MAKE) -f chapter_10/CMakeFiles/one_10.dir/build.make chapter_10/CMakeFiles/one_10.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles --progress-num=33,34 "Built target one_10"
+.PHONY : chapter_10/CMakeFiles/one_10.dir/all
+
+# Include target in all.
+all: chapter_10/CMakeFiles/one_10.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+chapter_10/CMakeFiles/one_10.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 chapter_10/CMakeFiles/one_10.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/c1over/Documents/OpencvWorkspace/build/CMakeFiles 0
+.PHONY : chapter_10/CMakeFiles/one_10.dir/rule
+
+# Convenience name for target.
+one_10: chapter_10/CMakeFiles/one_10.dir/rule
+
+.PHONY : one_10
+
+# clean rule for target.
+chapter_10/CMakeFiles/one_10.dir/clean:
+	$(MAKE) -f chapter_10/CMakeFiles/one_10.dir/build.make chapter_10/CMakeFiles/one_10.dir/clean
+.PHONY : chapter_10/CMakeFiles/one_10.dir/clean
+
+# clean rule for target.
+clean: chapter_10/CMakeFiles/one_10.dir/clean
 
 .PHONY : clean
 

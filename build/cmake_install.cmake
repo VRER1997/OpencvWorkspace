@@ -42,6 +42,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/Users/c1over/Documents/OpencvWorkspace/build/chapter_07/cmake_install.cmake")
   include("/Users/c1over/Documents/OpencvWorkspace/build/chapter_08/cmake_install.cmake")
   include("/Users/c1over/Documents/OpencvWorkspace/build/chapter_09/cmake_install.cmake")
+  include("/Users/c1over/Documents/OpencvWorkspace/build/chapter_10/cmake_install.cmake")
 
 endif()
 

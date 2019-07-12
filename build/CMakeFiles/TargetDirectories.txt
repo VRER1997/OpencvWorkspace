@@ -46,4 +46,10 @@
 /Users/c1over/Documents/OpencvWorkspace/build/chapter_08/CMakeFiles/one_08.dir
 /Users/c1over/Documents/OpencvWorkspace/build/chapter_09/CMakeFiles/rebuild_cache.dir
 /Users/c1over/Documents/OpencvWorkspace/build/chapter_09/CMakeFiles/edit_cache.dir
+/Users/c1over/Documents/OpencvWorkspace/build/chapter_09/CMakeFiles/two_09.dir
 /Users/c1over/Documents/OpencvWorkspace/build/chapter_09/CMakeFiles/one_09.dir
+/Users/c1over/Documents/OpencvWorkspace/build/chapter_10/CMakeFiles/rebuild_cache.dir
+/Users/c1over/Documents/OpencvWorkspace/build/chapter_10/CMakeFiles/edit_cache.dir
+/Users/c1over/Documents/OpencvWorkspace/build/chapter_10/CMakeFiles/three_10.dir
+/Users/c1over/Documents/OpencvWorkspace/build/chapter_10/CMakeFiles/two_10.dir
+/Users/c1over/Documents/OpencvWorkspace/build/chapter_10/CMakeFiles/one_10.dir
